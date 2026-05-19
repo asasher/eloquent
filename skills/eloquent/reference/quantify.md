@@ -1,5 +1,5 @@
 
-# Resume Quantifier
+# Quantify
 
 ## When to Use This Skill
 

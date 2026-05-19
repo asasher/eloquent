@@ -1,5 +1,5 @@
 
-# Resume Bullet Writer
+# Bullets
 
 ## When to Use This Skill
 

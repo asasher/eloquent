@@ -1,5 +1,5 @@
 
-# Cover Letter Generator
+# Cover Letter
 
 ## When to Use This Skill
 

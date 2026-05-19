@@ -1,5 +1,5 @@
 
-# Resume Formatter
+# Format
 
 ## When to Use This Skill
 

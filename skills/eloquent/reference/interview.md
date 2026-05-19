@@ -1,5 +1,5 @@
 
-# Interview Prep Generator
+# Interview
 
 ## When to Use This Skill
 

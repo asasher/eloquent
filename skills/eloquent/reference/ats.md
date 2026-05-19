@@ -1,5 +1,5 @@
 
-# Resume ATS Optimizer
+# ATS
 
 ## When to Use This Skill
 

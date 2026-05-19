@@ -1,5 +1,5 @@
 
-# Offer Comparison Analyzer
+# Compare Offers
 
 ## When to Use This Skill
 

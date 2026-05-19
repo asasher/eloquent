@@ -1,5 +1,5 @@
 
-# Academic CV Builder
+# Academic CV
 
 ## When to Use This Skill
 

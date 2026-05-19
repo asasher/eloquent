@@ -1,5 +1,5 @@
 
-# Job Description Analyzer
+# Analyze Job
 
 ## When to Use This Skill
 

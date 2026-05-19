@@ -30,57 +30,31 @@ Ask only for missing inputs relevant to the command:
 
 | Command | Category | Description | Reference |
 |---|---|---|---|
-| `ats` | Resume Optimization | Check ATS compatibility, parsing risk, keywords, and formatting | [reference/resume-ats-optimizer.md](reference/resume-ats-optimizer.md) |
-| `bullets` | Resume Optimization | Rewrite weak bullets into achievement-focused statements | [reference/resume-bullet-writer.md](reference/resume-bullet-writer.md) |
-| `quantify` | Resume Optimization | Find credible metrics and impact numbers | [reference/resume-quantifier.md](reference/resume-quantifier.md) |
-| `format` | Resume Optimization | Improve resume layout, readability, and ATS-safe structure | [reference/resume-formatter.md](reference/resume-formatter.md) |
-| `sections` | Resume Optimization | Build summaries, skills, experience, education, and supplemental sections | [reference/resume-section-builder.md](reference/resume-section-builder.md) |
-| `analyze-job` | Job Search Strategy | Parse a job description, score fit, identify gaps, and decide whether to apply | [reference/job-description-analyzer.md](reference/job-description-analyzer.md) |
-| `tailor` | Job Search Strategy | Customize a resume for a specific posting while staying truthful | [reference/resume-tailor.md](reference/resume-tailor.md) |
-| `versions` | Job Search Strategy | Manage master resumes and tailored versions | [reference/resume-version-manager.md](reference/resume-version-manager.md) |
-| `cover-letter` | Supporting Documents | Write a personalized cover letter from resume and job details | [reference/cover-letter-generator.md](reference/cover-letter-generator.md) |
-| `linkedin` | Supporting Documents | Optimize LinkedIn headline, About, Experience, and recruiter keywords | [reference/linkedin-profile-optimizer.md](reference/linkedin-profile-optimizer.md) |
-| `portfolio-case-study` | Supporting Documents | Turn resume achievements into portfolio case studies | [reference/portfolio-case-study-writer.md](reference/portfolio-case-study-writer.md) |
-| `references` | Supporting Documents | Build and prepare professional reference lists | [reference/reference-list-builder.md](reference/reference-list-builder.md) |
-| `interview` | Interview and Negotiation | Generate STAR stories, questions, talking points, and prep plans | [reference/interview-prep-generator.md](reference/interview-prep-generator.md) |
-| `salary` | Interview and Negotiation | Research market ranges and prepare negotiation scripts | [reference/salary-negotiation-prep.md](reference/salary-negotiation-prep.md) |
-| `compare-offers` | Interview and Negotiation | Compare offers by compensation, risk, role fit, and tradeoffs | [reference/offer-comparison-analyzer.md](reference/offer-comparison-analyzer.md) |
-| `tech` | Specialized Roles | Optimize software, PM, data, DevOps, and other technical resumes | [reference/tech-resume-optimizer.md](reference/tech-resume-optimizer.md) |
-| `executive` | Specialized Roles | Build VP, C-suite, board, and senior leadership resumes | [reference/executive-resume-writer.md](reference/executive-resume-writer.md) |
-| `academic-cv` | Specialized Roles | Build academic CVs for faculty, research, postdoc, and teaching roles | [reference/academic-cv-builder.md](reference/academic-cv-builder.md) |
-| `creative` | Specialized Roles | Balance portfolio-forward design with ATS compatibility | [reference/creative-portfolio-resume.md](reference/creative-portfolio-resume.md) |
-| `career-change` | Specialized Roles | Translate experience and transferable skills for a new field | [reference/career-changer-translator.md](reference/career-changer-translator.md) |
-
-## Aliases
-
-Map legacy skill names and natural wording to the command table:
-
-- `resume-ats-optimizer` -> `ats`
-- `resume-bullet-writer` -> `bullets`
-- `resume-quantifier` -> `quantify`
-- `resume-formatter` -> `format`
-- `resume-section-builder` -> `sections`
-- `job-description-analyzer` -> `analyze-job`
-- `resume-tailor` -> `tailor`
-- `resume-version-manager` -> `versions`
-- `cover-letter-generator` -> `cover-letter`
-- `linkedin-profile-optimizer` -> `linkedin`
-- `portfolio-case-study-writer` -> `portfolio-case-study`
-- `reference-list-builder` -> `references`
-- `interview-prep-generator` -> `interview`
-- `salary-negotiation-prep` -> `salary`
-- `offer-comparison-analyzer` -> `compare-offers`
-- `tech-resume-optimizer` -> `tech`
-- `executive-resume-writer` -> `executive`
-- `academic-cv-builder` -> `academic-cv`
-- `creative-portfolio-resume` -> `creative`
-- `career-changer-translator` -> `career-change`
-- `resume-skills` -> `eloquent`
+| `ats` | Resume Optimization | Check ATS compatibility, parsing risk, keywords, and formatting | [reference/ats.md](reference/ats.md) |
+| `bullets` | Resume Optimization | Rewrite weak bullets into achievement-focused statements | [reference/bullets.md](reference/bullets.md) |
+| `quantify` | Resume Optimization | Find credible metrics and impact numbers | [reference/quantify.md](reference/quantify.md) |
+| `format` | Resume Optimization | Improve resume layout, readability, and ATS-safe structure | [reference/format.md](reference/format.md) |
+| `sections` | Resume Optimization | Build summaries, skills, experience, education, and supplemental sections | [reference/sections.md](reference/sections.md) |
+| `analyze-job` | Job Search Strategy | Parse a job description, score fit, identify gaps, and decide whether to apply | [reference/analyze-job.md](reference/analyze-job.md) |
+| `tailor` | Job Search Strategy | Customize a resume for a specific posting while staying truthful | [reference/tailor.md](reference/tailor.md) |
+| `versions` | Job Search Strategy | Manage master resumes and tailored versions | [reference/versions.md](reference/versions.md) |
+| `cover-letter` | Supporting Documents | Write a personalized cover letter from resume and job details | [reference/cover-letter.md](reference/cover-letter.md) |
+| `linkedin` | Supporting Documents | Optimize LinkedIn headline, About, Experience, and recruiter keywords | [reference/linkedin.md](reference/linkedin.md) |
+| `portfolio-case-study` | Supporting Documents | Turn resume achievements into portfolio case studies | [reference/portfolio-case-study.md](reference/portfolio-case-study.md) |
+| `references` | Supporting Documents | Build and prepare professional reference lists | [reference/references.md](reference/references.md) |
+| `interview` | Interview and Negotiation | Generate STAR stories, questions, talking points, and prep plans | [reference/interview.md](reference/interview.md) |
+| `salary` | Interview and Negotiation | Research market ranges and prepare negotiation scripts | [reference/salary.md](reference/salary.md) |
+| `compare-offers` | Interview and Negotiation | Compare offers by compensation, risk, role fit, and tradeoffs | [reference/compare-offers.md](reference/compare-offers.md) |
+| `tech` | Specialized Roles | Optimize software, PM, data, DevOps, and other technical resumes | [reference/tech.md](reference/tech.md) |
+| `executive` | Specialized Roles | Build VP, C-suite, board, and senior leadership resumes | [reference/executive.md](reference/executive.md) |
+| `academic-cv` | Specialized Roles | Build academic CVs for faculty, research, postdoc, and teaching roles | [reference/academic-cv.md](reference/academic-cv.md) |
+| `creative` | Specialized Roles | Balance portfolio-forward design with ATS compatibility | [reference/creative.md](reference/creative.md) |
+| `career-change` | Specialized Roles | Translate experience and transferable skills for a new field | [reference/career-change.md](reference/career-change.md) |
 
 ## Routing
 
 1. **No argument**: show the command menu grouped by category and ask what the user wants to do.
-2. **First word matches a command or alias**: load the matching reference and follow it. Everything after the command name is the target.
+2. **First word matches a command**: load the matching reference and follow it. Everything after the command name is the target.
 3. **First word does not match**: infer the best command from the user's request, state the inferred command, load its reference, and proceed.
 4. **Compound requests**: load references in workflow order, not all at once. For example: `analyze-job` before `tailor`, `tailor` before `cover-letter`, `bullets` before `ats` when rewriting content first.
 

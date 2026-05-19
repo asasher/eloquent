@@ -1,5 +1,5 @@
 
-# Executive Resume Writer
+# Executive
 
 ## When to Use This Skill
 

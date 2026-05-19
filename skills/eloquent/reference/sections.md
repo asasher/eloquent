@@ -1,5 +1,5 @@
 
-# Resume Section Builder
+# Sections
 
 ## When to Use This Skill
 

@@ -1,5 +1,5 @@
 
-# LinkedIn Profile Optimizer
+# LinkedIn
 
 ## When to Use This Skill
 

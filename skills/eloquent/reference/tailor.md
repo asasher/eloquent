@@ -1,5 +1,5 @@
 
-# Resume Tailor
+# Tailor
 
 ## When to Use This Skill
 
@@ -9,7 +9,7 @@ Use this skill when the user wants to:
 - Create a targeted version of their resume
 - Mentions: "tailor resume", "customize resume", "target role", "specific job", "match job description"
 
-Use AFTER job-description-analyzer to know what to emphasize.
+Use after `analyze-job` to know what to emphasize.
 
 ## Core Capabilities
 
@@ -28,7 +28,7 @@ Think of your full experience as a library of achievements. Tailoring means sele
 
 ## Tailoring Process
 
-### Step 1: Analyze the Job (Use Job Description Analyzer First)
+### Step 1: Analyze the Job (Use `analyze-job` First)
 - Identify required skills and keywords
 - Note the company's priorities
 - Understand the role's primary responsibilities

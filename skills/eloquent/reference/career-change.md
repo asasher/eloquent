@@ -1,5 +1,5 @@
 
-# Career Changer Translator
+# Career Change
 
 ## When to Use This Skill
 

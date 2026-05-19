@@ -1,5 +1,5 @@
 
-# Tech Resume Optimizer
+# Tech
 
 ## When to Use This Skill
 

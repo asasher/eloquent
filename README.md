@@ -1,6 +1,6 @@
 # Eloquent
 
-One installable career-development skill for AI coding agents. It consolidates the former multi-skill ResumeSkills content into a single entry point, `eloquent`, with focused subcommands.
+One installable career-development skill for AI coding agents. It turns career material into clear, persuasive resumes, CVs, profiles, letters, interview stories, and negotiation scripts through a single entry point, `eloquent`.
 
 ## Structure
 
@@ -10,8 +10,8 @@ skills/eloquent/
 +-- agents/
 |   `-- openai.yaml
 +-- reference/
-|   +-- resume-ats-optimizer.md
-|   +-- resume-bullet-writer.md
+|   +-- ats.md
+|   +-- bullets.md
 |   `-- ...
 `-- scripts/
     `-- command-metadata.json

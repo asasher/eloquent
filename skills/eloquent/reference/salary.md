@@ -1,5 +1,5 @@
 
-# Salary Negotiation Prep
+# Salary
 
 ## When to Use This Skill
 

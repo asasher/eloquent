@@ -1,5 +1,5 @@
 
-# Portfolio Case Study Writer
+# Portfolio Case Study
 
 ## When to Use This Skill
 

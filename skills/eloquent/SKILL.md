@@ -53,13 +53,15 @@ Ask only for missing inputs relevant to the command:
 
 ## Routing
 
-1. **No argument**: show the command menu grouped by category and ask what the user wants to do.
+1. **No argument**: show the command menu grouped by category, then show the Common Workflows list as quick-start hints. Ask which workflow or command the user wants to run.
 2. **First word matches a command**: load the matching reference and follow it. Everything after the command name is the target.
 3. **First word does not match**: infer the best command from the user's request, state the inferred command, load its reference, and proceed.
 4. **Compound requests**: load references in workflow order, not all at once. For example: `analyze-job` before `tailor`, `tailor` before `cover-letter`, `bullets` before `ats` when rewriting content first.
 
 ## Common Workflows
 
+- Scratch resume for a specific job: `analyze-job` -> `sections` -> `bullets` -> `quantify` -> `format` -> `ats` -> `tailor` -> `cover-letter`.
+- Scratch master resume: `sections` -> `bullets` -> `quantify` -> `format` -> `ats` -> `versions`.
 - Full application pass: `analyze-job` -> `tailor` -> `ats` -> `cover-letter`.
 - Resume refresh: `sections` -> `bullets` -> `quantify` -> `format` -> `ats`.
 - Interview package: `analyze-job` -> `interview` -> `references`.

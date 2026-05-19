@@ -86,6 +86,10 @@ Natural requests route to the nearest subcommand:
 
 The skill follows the same broad shape as `impeccable`: one entrypoint, a command table, routing rules, detailed command references, and command metadata. This keeps activation predictable and avoids installing twenty separate skills for related resume workflows.
 
+## Credits
+
+The career workflow reference content is adapted from [Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
